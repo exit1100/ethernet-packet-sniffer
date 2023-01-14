@@ -1,1 +1,1 @@
-# python-ethernet-packet-sniffer
+# ethernet-packet-sniffer
